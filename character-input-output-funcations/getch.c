@@ -9,3 +9,10 @@ printf("you pressed %c\n",ch);
 return 0;
 }
 
+
+//output
+//compilation terminated
+//getch()not defined in standard libraries on linux
+//<conio.h> not available in stdio available in Turbo c/c++
+//we can use getchar() insted of getch()
+
