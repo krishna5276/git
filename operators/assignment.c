@@ -8,3 +8,8 @@ a=a*2;
 printf("a*2 %d",a);
  return 0;
 }
+
+
+//output
+//a+10 110
+//a*2 220

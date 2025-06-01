@@ -9,3 +9,11 @@ printf("a: %d\n",a);
 
 return 0;
 }
+
+
+//output
+//++a: 11
+//a: 11
+//a++: 11
+//a: 12
+

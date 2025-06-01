@@ -9,3 +9,11 @@ printf("a<<1:%d\n",a<<1);
 printf("a>>1:%d\n",a>>1);
 return 0;
 }
+
+//output
+//a&b:24
+//a|b:31
+//a^b:7
+//a<<1:60
+//a>>1:15
+

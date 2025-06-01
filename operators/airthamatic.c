@@ -14,3 +14,11 @@ printf("Modules %d",a%b);
 return 0;
 }
 
+//output
+
+//Airthamatic 30
+//subtraction -10
+//Multiplication 200
+//Division 0
+//Modules 10
+
